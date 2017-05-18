@@ -1,4 +1,6 @@
 # Project Chaplin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kathiedart/projectchaplin.svg)](https://greenkeeper.io/)
 an open source, self-hosted video sharing service
 
 ## Current features
